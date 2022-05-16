@@ -1,6 +1,9 @@
 ## 👋 Hi there! Welcome to my Github profile, my name is Samuel Silva!
 
-<p><a href="https://github.com/samuelsilvati" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" ></a> <a href="https://github.com/samuelsilvati" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" ></a> <a href="https://github.com/samuelsilvati" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40" ></a> </p>
+<p><a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" ></a> <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"></a> 
+<a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"></a>
+<a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"></a></p>
+          
 
 <p align="center">
   <a href="https://github.com/samuelsilvati">
