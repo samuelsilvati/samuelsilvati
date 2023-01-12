@@ -1,19 +1,23 @@
 ## 👋 Hi there! Welcome to my Github profile, my name is Samuel Silva!
 
-<p><a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" ></a> <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"></a> 
+- 🌱 I’m currently learning JavaScript, Nodejs, React, MongoDB and MySQL
+
+<p align="center"><a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" ></a> <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"></a> 
 <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"></a>
-<a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"></a></p>
+<a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"></a>
+</p>
           
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/samuelsilvati">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelsilvati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsilvati&layout=compact&langs_count=7&theme=dark"/> -->
- </p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samuelsilvati&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
+<!--    <img height="180em" src="https://https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuelsilvati&layout=compact&langs_count=7&theme=dark"/>
+ </div> -->
 
   
   ##
-
-<p>
+<h2 align="center">Socials<h2/>
+<p align="center">
   <a href="https://instagram.com/theheermit" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/samuelsilvati" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </p>
 
