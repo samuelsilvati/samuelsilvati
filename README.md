@@ -1,11 +1,16 @@
 ## 👋 Hi there! Welcome to my Github profile, my name is Samuel Silva!
 
 - 🌱 I’m currently learning JavaScript and Flutter
+- ☰  See some of my projects: <a href="https://eusouosamuel.vercel.app" target='_blank'>eusouosamuel.vercel.app</a>
 
-<p align="center"> <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40"> </a>
-<a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" ></a> <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"></a> 
-<a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"> </a> <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"> </a> 
- <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"> </a>
+<p align="center"> 
+  <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="40" height="40" /> </a>
+ <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /></a> <a href="https://github.com/samuelsilvati"><img      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40"></a> 
+ <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> </a> <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"> </a> 
+ <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40" /></a>
+ <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" /></a>
+ <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /></a>
+ <a href="https://github.com/samuelsilvati"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" /></a>
 </p>
           
 
